@@ -20,7 +20,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img width=390 src="[(https://streak-stats.demolab.com?user=realchef&theme=dark)](https://streak-stats.demolab.com?user=realchef&theme=dark)" alt="streak stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=realchef&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
