@@ -12,7 +12,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python" /><br>
+  <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
 
 <hr/>
