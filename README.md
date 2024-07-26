@@ -1,12 +1,12 @@
 <div align="center">
-  <h2>Aspiring Graphics engineer</h2>
+  <h2>Aspiring sigma</h2>
   <p>
-  Currently studying electronical engineering</strong>
+  Currently studying fuck all </strong>
   </p>
 </div>
 
 <div align="center">
-  <p>I’m currently learning <strong>C, and Python</strong></p>
+  <p>yasp</strong></p>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
