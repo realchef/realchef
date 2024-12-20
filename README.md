@@ -1,12 +1,12 @@
 <div align="center">
   <h2>Aspiring sigma</h2>
   <p>
-  Currently studying fuck all </strong>
+  Currently studying compouting </strong>
   </p>
 </div>
 
 <div align="center">
-  <p>yasp</strong></p>
+  <p></strong></p>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
